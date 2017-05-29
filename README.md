@@ -1,7 +1,7 @@
 # Goals
 List of skills I plan on learning.
 # Software
--C/C++,Java,Python,Rust
+-C/C++,Java,Python,Rust,SQL
 
 -OO design,DSA
 
@@ -9,12 +9,29 @@ List of skills I plan on learning.
 
 -NLP,machine learning
 
--Client-Server protocol & API design
+-Client-Server protocol design
 
 -Operating Systems
 
 -Embedded Systems
 
--Compiler development
+# Hardware
+-Logic Design
+
+-Circuit Design
+
+-Verilog or VHDL
+
+-SPICE
+
+-Computer Architecture
+
+-CPU & GPU Architecture
+
+-Assembly
+
+-PCB 
+
+
 
 
