@@ -32,6 +32,7 @@ List of skills I plan on learning.
 
 -PCB 
 
+-FPGA
 
 
 
